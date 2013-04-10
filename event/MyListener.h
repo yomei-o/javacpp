@@ -1,10 +1,3 @@
-/******* BEGIN LICENCE BLOCK *******
-
-    Sony Nasne Application
-    Copyright (C) 2012 Sony Corporation.
-    Yomei.Otani@jp.sony.com
-
-******* END LICENCE BLOCK *******/
 
 #ifndef D_MYLISTENER_H__
 #define D_MYLISTENER_H__

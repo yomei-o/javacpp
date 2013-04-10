@@ -1,10 +1,3 @@
-/******* BEGIN LICENCE BLOCK *******
-
-    Sony Nasne Application
-    Copyright (C) 2012 Sony Corporation.
-    Yomei.Otani@jp.sony.com
-
-******* END LICENCE BLOCK *******/
 #ifdef JAVA
 
 package com.sony.myssdp;
