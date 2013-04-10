@@ -1,6 +1,6 @@
 #ifdef JAVA
 
-package com.sony.myssdp;
+package com.yomei.myssdp;
 import java.io.*;
 import java.lang.*;
 

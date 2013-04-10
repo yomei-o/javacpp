@@ -5,7 +5,7 @@ PPWWDD=`pwd`
 CSRCDIR=cpp
 JSRCDIR=java
 TOOLDIR=tool
-PACKAGE=com/sony/myssdp
+PACKAGE=com/yomei/myssdp
 
 TARGET=Main
 FILES="TestEvent TestListener MyListener Main"
